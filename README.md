@@ -7,30 +7,4 @@ Nothing to see here.
 <<<<<<< HEAD
 =======
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> master
-
-
-
+> > > > > > > master
